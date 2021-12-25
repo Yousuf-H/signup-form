@@ -26,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./src/images/ScreenShot2021.png)
+![](./src/images/ScreenShot2021Error.png)
 
 ### Links
 
